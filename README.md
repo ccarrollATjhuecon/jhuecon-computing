@@ -1,1 +1,1 @@
-# Material Faculty at JHU Economics Department
+# Material for Faculty at JHU Economics Department
