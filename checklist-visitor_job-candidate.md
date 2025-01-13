@@ -27,6 +27,7 @@
   - [ ] Start the Zoom for the presentation:
     - **Meeting ID**: 951 2813 3059
     - **Passcode**: econ.
+  - [ ] Make sure the 'record to the cloud' option is enabled
 - [ ] At **3:30 PM (or so)**, introduce the speaker and let them know they have **90 minutes**.
 - [ ] By **5:00 PM (or earlier if they finish)**:
   - [ ] Call for final questions.
