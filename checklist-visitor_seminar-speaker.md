@@ -24,6 +24,7 @@
   - [ ] Log into the room's computer:
     - **Username**: `econdept`
     - **Password**: `Ec0n0019ab` (also taped on the podium).
+  - [ ] set the 'record to the cloud' option if desired  
   - [ ] Get their presentation slides onto the computer.
   - [ ] Start the Zoom for the presentation:
     - **Meeting ID**: 951 2813 3059
